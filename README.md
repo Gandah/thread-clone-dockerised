@@ -16,8 +16,7 @@
 
 ## Overview
 
-A full-stack threads clone application with multi-level comment system, authentication, you can create communities, search for users,
-send invites to others to join your community, have discussions on a thread and more.
+This is a containerized application modeled after threads(the social media platform) that supports threaded conversations, allowing users to engage in discussions with nested replies. Built using a microservices architecture(Docker containers)
 
 ## 💾Core Features
 
@@ -57,13 +56,11 @@ send invites to others to join your community, have discussions on a thread and 
   
 ### 📸Screenshots
 
+![Containerization](./screenshots/docker.png)
+
 #### 📱Mobile
 
-![Home](./screenshots/mobile/mobile-home.png)
-![Search](./screenshots/mobile/mobile-search.png)
-![Profile](./screenshots/mobile/mobile-profile.png)
-![Post](./screenshots/mobile/mobile-post.png)
-![Communities](./screenshots/mobile/mobile-communities.png)
+![Home](./screenshots/Mobile.png)
 
 #### 🖥️Desktop
 
@@ -79,7 +76,7 @@ send invites to others to join your community, have discussions on a thread and 
 
 ### 🔗Links
 
-- GitHub Repo: [View Repo](https://github.com/Gandah/threads-clone-app.git)
+- GitHub Repo: [View Repo](https://github.com/Gandah/thread-clone-dockerised.git)
 - Live Site URL: [Visit Site](https://threads-app-blue-gamma.vercel.app/)
 
 ### ⚙️Built with
