@@ -16,7 +16,7 @@
 
 ## Overview
 
-This is a containerized application modeled after threads(the social media platform) that supports threaded conversations, allowing users to engage in discussions with nested replies. Built using a microservices architecture(Docker containers)
+This is a containerized application modeled after threads(the social media platform) that supports threaded conversations, allowing users to engage in discussions with nested replies. Built using a microservices architecture.
 
 ## 💾Core Features
 
@@ -91,6 +91,7 @@ This is a containerized application modeled after threads(the social media platf
 - React Hook Form
 - Zod
 - TypeScript
+- Docker Containers
 
 ### 👨‍💻Continued development
 
